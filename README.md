@@ -1,6 +1,7 @@
 # DID-ML-Enhanced
 # README
-
+#Overleaf
+https://www.overleaf.com/project/66292b6e0c9fdda94a7595af
 ## Description
 This project extends the analysis performed in "The Effect of Minimum Wages on Low-Wage Jobs" by Cengiz, Dube, Lindner, and Zipperer, which estimates the impact of minimum wage increases on employment using a difference-in-differences approach. We enhance this original study by applying a machine learning approach using a causal forest model to derive treatment effect weights. These weights are then used to perform a weighted least squares (WLS) regression to obtain a refined estimation of the impact.
 
