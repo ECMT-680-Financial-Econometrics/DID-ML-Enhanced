@@ -5,7 +5,7 @@ https://www.overleaf.com/read/ngcjkdvtsnvj#98cd4e
 ## Description
 This project extends the analysis performed in "The Effect of Minimum Wages on Low-Wage Jobs" by Cengiz, Dube, Lindner, and Zipperer, which estimates the impact of minimum wage increases on employment using a difference-in-differences approach. Using ML techniques like Double-Lasso, this study replicates and refines the reference paper, revealing nuanced impacts across wage tiers and demographics. It confirms nuanced job distribution changes post-minimum wage hikes, aiding policymakers in crafting more informed, equitable labor policies.
 
-## Objective:
+## Objectives:
  1. Find the most suitable treatment and control groups to support the parallel assumption.
  2. To identify the most important features, and explore minimum wage using ML for detailed insights.
 
@@ -15,9 +15,17 @@ Datasets are identified with "statenum" and "quarterdate" to align the analyzed 
 
 - `StateMinimumWage_Changes.xlsx`: Contains the historical data on changes to the minimum wage across various states in the United States and employment rate. 
 
-## Methods
-The Double-Lasso model :
+-``: Replication code, contains the replication method in Python for Figure 2 in the cited paper.
 
+- `Double Lasso Enhance DiD.ipynb`: Enhancement code, contains the Double-Lasso method, regression model, and data visualization.
+  
+## Methods
+
+The Double-Lasso model :
+- Data import: 
+
+Regression analysis:
+Visualization:
 
 The key variables used in the analysis are:
 -  `wagebinstate`, `weight'Y''b'`, `wtoverall1979`, `wmax`,`wmin`: Feature variables represent changes in minimum wages in each state.
@@ -38,7 +46,7 @@ The key variables used in the analysis are:
 ## How to Run
 - Ensure `pandas`,`linearmodels.panel`, `matplotlib` libraries are installed in the Python environment.
 - Load the datasets.
-- Run the analysis script as detailed in the provided code snippets.
+- Run the methods script as detailed in the provided code snippets.
 
 ## Dependencies
 - Python 3.8 or later
@@ -52,4 +60,5 @@ The key variables used in the analysis are:
 
 ## Links:
 Colab of Replication:
-Colab of Enhancement:
+
+Colab of Enhancement: https://colab.research.google.com/drive/1V3OXoRlVfXyZKU4SdpokuzVCyJeR-Xl3?usp=sharing
