@@ -22,8 +22,8 @@ Datasets are identified with "statenum" and "quarterdate" to align the analyzed 
 ## Methods
 
 The Double-Lasso model :
-- Data import: Coning the dataset - `Figure2_for_QJE` from Github.
-- Regression analysis and visualization: Run the code in - `Double Lasso Enhance DiD.ipynb`, including cleaning data, and build a panel regression model, applying  `matplotlib` library to generate plots.
+- Data import: Coning the dataset `Figure2_for_QJE` from Github.
+- Regression analysis and visualization: Run the code in `Double Lasso Enhance DiD.ipynb`, including cleaning data, and build a panel regression model, applying  `matplotlib` library to generate plots.
 
 The key variables used in the analysis are:
 -  `wagebinstate`, `weight'Y''b'`, `wtoverall1979`, `wmax`,`wmin`: Feature variables represent changes in minimum wages in each state.
