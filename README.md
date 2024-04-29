@@ -1,6 +1,6 @@
 # DID-ML-Enhanced
 # README
-#Overleaf
+## Overleaf
 https://www.overleaf.com/read/ngcjkdvtsnvj#98cd4e
 ## Description
 This project extends the analysis performed in "The Effect of Minimum Wages on Low-Wage Jobs" by Cengiz, Dube, Lindner, and Zipperer, which estimates the impact of minimum wage increases on employment using a difference-in-differences approach. Using ML techniques like Double-Lasso, this study replicates and refines the reference paper, revealing nuanced impacts across wage tiers and demographics. It confirms nuanced job distribution changes post-minimum wage hikes, aiding policymakers in crafting more informed, equitable labor policies.
