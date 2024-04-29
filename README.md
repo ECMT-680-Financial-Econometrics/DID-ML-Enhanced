@@ -19,7 +19,6 @@ The key variables used in the analysis are:
 - `treat_p.j`,`treat_m.j` `Ftreat_p.j`, `Ltreat_p.j``Ltreat_m.j`: The treatment variable whether the salary changes according to a certain time node in this paper.
 - `overallcountpcall`: represents the percentage of the population corresponding to changes in the minimum wage.
 
-The weights derived from the causal forest model signify the importance of each feature in predicting the treatment effect and were applied to the OLS regression.
 
 ## Analysis
 - Double-Lasso enhances precision by selecting New York and Arkansas based on parallel trends.
@@ -32,7 +31,7 @@ The weights derived from the causal forest model signify the importance of each 
 - ML-enhanced Double-Lasso selects New York (treatment) and Arkansas (control) for analysis.
 
 ## How to Run
-- Ensure `pandas`, `matplotlib`, `econml`, `sklearn`, and `statsmodels` libraries are installed in the Python environment.
+- Ensure `pandas`,`linearmodels.panel`, `matplotlib` libraries are installed in the Python environment.
 - Load the datasets.
 - Run the analysis script as detailed in the provided code snippets.
 
