@@ -7,9 +7,9 @@ This project extends the analysis performed in "The Effect of Minimum Wages on L
 
 ## Files and Data
 - `Figure2_for_QJE`: Contains state panel data for the years 1979-2016.
-Datasets are identified with "statenum" and "quarterdate" to align the analyzed observations.
+Datasets are identified with "statenum" and "quarterdate" to align the analyzed observations. (Download from: https://github.com/mjahangiralam/Data-Science-for-Economic-and-Social-Issues/tree/main/DiD/Cengiz-et-al)
 
-- `StateMinimumWage_Changes.xlsx`: Contains the historical data on changes to the minimum wage across various states in the United States and employment rate. (Download from:https://github.com/mjahangiralam/Data-Science-for-Economic-and-Social-Issues/tree/main/DiD/Cengiz-et-al)
+- `StateMinimumWage_Changes.xlsx`: Contains the historical data on changes to the minimum wage across various states in the United States and employment rate. 
 
 ## Methods
 The Double-Lasso model 
