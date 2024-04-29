@@ -38,10 +38,8 @@ The key variables used in the analysis are:
 ## Dependencies
 - Python 3.8 or later
 - Pandas library
+- Linearmodels.panel library
 - Matplotlib library
-- EconML library
-- Scikit-learn library
-- Statsmodels library
 
 ## Authors
 - Original Study: Doruk Cengiz, Arindrajit Dube, Attila Lindner, Ben Zipperer
