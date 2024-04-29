@@ -46,7 +46,7 @@ The weights derived from the causal forest model signify the importance of each 
 
 ## Authors
 - Original Study: Doruk Cengiz, Arindrajit Dube, Attila Lindner, Ben Zipperer
-- Enhancement Analysis: Oscar Lu, Feya Yang, Weizi He Lingfeng Shi, Qijin Liu, Nuha Alamri
+- Enhancement Analysis: Oscar Lu, Feya Yang, Weizi He, Lingfeng Shi, Qijin Liu, Nuha Alamri
 
 ## Links:
 Colab of Replication:
