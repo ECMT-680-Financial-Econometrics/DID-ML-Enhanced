@@ -22,10 +22,14 @@ The key variables used in the analysis are:
 The weights derived from the causal forest model signify the importance of each feature in predicting the treatment effect and were applied to the OLS regression.
 
 ## Analysis
-1. 
+- Double-Lasso enhances precision by selecting New York and Arkansas based on parallel trends.
+- Plotting shows nuanced effects of minimum wage changes on different wage tiers.
+- Model discerns subtle impacts, improving understanding of minimum wage effects.
 
 ## Results
-The results suggest that, when using a causal forest to determine feature importances as weights in a WLS regression, the overall number of low-wage jobs remains essentially unchanged over five years following the increase in the minimum wage. This complements the findings of the original study by providing a more nuanced analysis of the policy's impact across different segments of the labor market.
+- Replication process consolidates control variables into a single dataframe for regression analysis.
+- Placebo test applied to regression output in DiD methodology reveals new coefficients.
+- ML-enhanced Double-Lasso selects New York (treatment) and Arkansas (control) for analysis.
 
 ## How to Run
 - Ensure `pandas`, `matplotlib`, `econml`, `sklearn`, and `statsmodels` libraries are installed in the Python environment.
