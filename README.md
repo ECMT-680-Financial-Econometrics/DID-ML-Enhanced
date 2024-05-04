@@ -15,7 +15,7 @@ Datasets are identified with "statenum" and "quarterdate" to align the analyzed 
 
 - `StateMinimumWage_Changes.xlsx`: Contains the historical data on changes to the minimum wage across various states in the United States and employment rate. 
 
--``: Replication code, contains the replication method in Python for Figure 2 in the cited paper.
+-`DID_GROUP_project (1).ipynb`: Replication code, contains the replication method in Python for Figure 2 in the cited paper.
 
 - `Double Lasso Enhance DiD.ipynb`: Enhancement code, contains the Double-Lasso method, regression model, and data visualization.
   
@@ -54,9 +54,9 @@ The key variables used in the analysis are:
 
 ## Authors
 - Original Study: Doruk Cengiz, Arindrajit Dube, Attila Lindner, Ben Zipperer
-- Enhancement Analysis: Oscar Lu, Feya Yang, Weizi He, Lingfeng Shi, Qijin Liu, Nuha Alamri
+- Enhancement Analysis: Oscar Lu, Faye Yang, Weizi He, Lingfeng Shi, Qijin Liu, Nuha Alamri
 
 ## Links:
-Colab of Replication:
+Colab of Replication: 
 
 Colab of Enhancement: https://colab.research.google.com/drive/1V3OXoRlVfXyZKU4SdpokuzVCyJeR-Xl3?usp=sharing
