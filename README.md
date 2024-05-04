@@ -15,7 +15,7 @@ Datasets are identified with "statenum" and "quarterdate" to align the analyzed 
 
 - `StateMinimumWage_Changes.xlsx`: Contains the historical data on changes to the minimum wage across various states in the United States and employment rate. 
 
--`DID_GROUP_project (1).ipynb`: Replication code, contains the replication method in Python for Figure 2 in the cited paper.
+- `DID_GROUP_project (1).ipynb`: Replication code, contains the replication method in Python for Figure 2 in the cited paper.
 
 - `Double Lasso Enhance DiD.ipynb`: Enhancement code, contains the Double-Lasso method, regression model, and data visualization.
   
