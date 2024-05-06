@@ -57,6 +57,6 @@ The key variables used in the analysis are:
 - Enhancement Analysis: Oscar Lu, Faye Yang, Weizi He, Lingfeng Shi, Qijin Liu, Nuha Alamri
 
 ## Links:
-Colab of Replication: https://colab.research.google.com/drive/1y33fkiLojiB8b6vn90ZqXRgxxIpBic2M?usp=sharing
+Colab of Replication: [https://colab.research.google.com/drive/1y33fkiLojiB8b6vn90ZqXRgxxIpBic2M?usp=sharing](https://colab.research.google.com/drive/12IwIC-CEKiCbh-KhC9fEOvtPnHA1NMIn?usp=sharing)
 
 Colab of Enhancement: https://colab.research.google.com/drive/1V3OXoRlVfXyZKU4SdpokuzVCyJeR-Xl3?usp=sharing
